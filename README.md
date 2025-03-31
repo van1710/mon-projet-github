@@ -5,4 +5,4 @@ Projet démontrant l'utilisation des fonctionnalités de base de GitHub :
 - GitHub Pages
 - Issues
 
-[Lien vers le site](https://github.com/van1710/mon-projet-github)
+[Visiter le site](https://van1710.github.io/mon-projet-github/)
